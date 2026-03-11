@@ -73,7 +73,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
       <a href="https://pathway.studio"><img src="https://joseveiga.dev/img/pathway_logo.webp" width="64" alt="Pathway Studios" /></a>
     </td>
     <td>
-      <strong>Minecraft Marketplace Developer</strong><img src="https://img.shields.io/badge/Partner-0078D4?style=flat-square&logoColor=white" alt="Partner" /><br> 
+      <strong>Minecraft Marketplace Developer</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Partner-0078D4?style=flat-square&logoColor=white" alt="Partner" /><br> 
       Pathway Studios · <em>Jan 2026 – Present · Remote</em><br>
       Developing Marketplace-ready Bedrock add-ons for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
     </td>
