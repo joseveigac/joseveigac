@@ -45,23 +45,23 @@ Experience
 <table>
   <tr>
     <td align="center" width="90" bgcolor="white">
-      <a href="https://pathway.studio"><img src="https://joseveiga.dev/img/pathway_logo.webp" width="64" alt="Pathway Studios" /></a>
-    </td>
-    <td>
-      <strong>Minecraft Marketplace Developer</strong><br>
-      <a href="https://pathway.studio">Pathway Studios</a> · <em>Jan 2026 – Present · Remote</em><br>
-      Developing Marketplace-ready Bedrock add-ons under NDA for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
-    </td>
-  </tr>
-  <tr><td colspan="2"><br></td></tr>
-  <tr>
-    <td align="center" width="90" bgcolor="white">
       <a href="https://aurrora.net"><img src="https://aurrora.net/wp-content/uploads/2021/03/Aurrora-logo-Black-not-stacked.svg" width="64" alt="Aurrora Studio" /></a>
     </td>
     <td>
       <strong>Addon Developer</strong><br>
       Aurrora Studio · <em>Current · Remote</em><br>
       Developing Minecraft Bedrock add-ons as part of the studio team.
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+    <tr>
+    <td align="center" width="90" bgcolor="white">
+      <a href="https://pathway.studio"><img src="https://joseveiga.dev/img/pathway_logo.webp" width="64" alt="Pathway Studios" /></a>
+    </td>
+    <td>
+      <strong>Minecraft Marketplace Developer</strong><br>
+      <a href="https://pathway.studio">Pathway Studios</a> · <em>Jan 2026 – Present · Remote</em><br>
+      Developing Marketplace-ready Bedrock add-ons under NDA for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
