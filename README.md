@@ -15,10 +15,6 @@ I build games and software tools with a focus on clean architecture and real shi
 
 ---
 
-## Shipped Projects
-
----
-
 ### [Portfolio & Dev Blog](https://joseveiga.dev/)
 ![Static Site](https://img.shields.io/badge/Static_Site-grey?style=flat-square) ![Astro](https://img.shields.io/badge/Astro_5-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
