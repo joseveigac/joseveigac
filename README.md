@@ -63,7 +63,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
       </a>
     </td>
     <td>
-      <strong>Addon Developer</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Full--Time-22c55e?style=flat-square" /> <br>
+      <strong>Addon Developer</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Full--Time-2ea043?style=flat-square" /> <br>
       Aurrora Studio · <em>Current · Remote</em><br>
       Developing Minecraft Bedrock add-ons as part of the studio team.
     </td>
@@ -73,7 +73,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
       <a href="https://pathway.studio"><img src="https://joseveiga.dev/img/pathway_logo.webp" width="64" alt="Pathway Studios" /></a>
     </td>
     <td>
-      <strong>Minecraft Marketplace Developer</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Partner-0078D4?style=flat-square&logoColor=white" alt="Partner" /><br> 
+      <strong>Minecraft Marketplace Developer</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Partner-2da44e?style=flat-square&logoColor=white" alt="Partner" /><br> 
       Pathway Studios · <em>Jan 2026 – Present · Remote</em><br>
       Developing Marketplace-ready Bedrock add-ons for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
     </td>
@@ -83,7 +83,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
       <a href="#"><img src="https://joseveiga.dev/img/brainvt_logo.webp" width="64" alt="BrainVT" /></a>
     </td>
     <td>
-      <strong>Unity Developer – Android API & Backend</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Freelance-f59e0b?style=flat-square" /> <br>
+      <strong>Unity Developer – Android API & Backend</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Freelance-d29922?style=flat-square" /> <br>
       BrainVT · <em>Jun 2024 – Aug 2024</em><br>
       Upgraded Android project to API 30+, resolved AWS backend instability, updated full toolchain (JRE, JDK, .NET, DLLs).
     </td>
@@ -93,7 +93,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
       <a href="https://jellyworld.games"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
     </td>
     <td>
-      <strong>Unity Developer (Remote)</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Remote-3b82f6?style=flat-square" /> <br>
+      <strong>Unity Developer (Remote)</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Remote-388bfd?style=flat-square" /> <br>
       Jellyworld Games · <em>May 2021 – Jun 2022</em><br>
       Shipped Trainpunk Run and My Daily Pets on Steam. Refactored architecture with OOP and SOLID principles across Agile sprints.
     </td>
@@ -103,7 +103,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
       <a href="https://jellyworld.games"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
     </td>
     <td>
-      <strong>Unity Developer (Internship)</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Internship-6366f1?style=flat-square" /><br>
+      <strong>Unity Developer (Internship)</strong>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Internship-8957e5?style=flat-square" /><br>
       Jellyworld Games · <em>Jan 2021 – Apr 2021</em><br>
       Supported multiple Unity projects with clean, structured code and launch prep.
     </td>
