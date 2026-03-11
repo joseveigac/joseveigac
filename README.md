@@ -1,4 +1,4 @@
-  # José Manuel Veiga                                                                                                            
+  # Jose Manuel Veiga                                                                                                            
    
   **Unity Developer** · Viladecans, Barcelona                                                                                    
                                                                                                                                
