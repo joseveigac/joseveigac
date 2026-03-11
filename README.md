@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-joseveiga.dev-black?style=flat-square&logo=astro)](https://joseveiga.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joseveigac-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joseveigac/)
-[![CurseForge]([https://img.shields.io/badge/CurseForge-Published_Addon-F16436?style=flat-square&logo=curseforge)](https://www.curseforge.com/minecraft-bedrock/addons/idle-ore-generators](https://www.curseforge.com/members/ghozix/projects))
+[![CurseForge](https://img.shields.io/badge/CurseForge-Profile-F16436?style=flat-square&logo=curseforge)]([https://www.curseforge.com/minecraft-bedrock/addons/idle-ore-generators](https://www.curseforge.com/members/ghozix/projects))
 
 </div>
 
