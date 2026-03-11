@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jose Manuel Veiga
-### Unity Developer · Game Dev · Software Engineer
+### Unity Developer · Bedrock Dev · Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-joseveiga.dev-black?style=flat-square&logo=astro)](https://joseveiga.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joseveigac-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joseveigac/)
@@ -12,15 +12,6 @@
 ---
 
 I build games and software tools with a focus on clean architecture and real shipping. Experienced with Unity across commercial Steam titles, Android, and cloud backends. Currently building solo projects and exploring multi-platform publishing.
-
----
-
-## Projects
-
-### 🔨 In Development
-
-**Android RPG** · Unity 6 · *Targeting Google Play*
-Solo RPG built with Unity 6, using Addressables for optimized runtime asset loading and memory management.
 
 ---
 
@@ -37,6 +28,12 @@ Solo RPG built with Unity 6, using Addressables for optimized runtime asset load
 ---
 
 ## Experience
+
+**Addon Developer** — Aurrora Studio (Current)*
+Developing Minecraft Bedrock add-ons as part of the studio team.                                              
+
+**Minecraft Marketplace Developer** — Pathway Studios *(Jan 2026 – Present)*
+Collaborating with an official Minecraft Marketplace Partner on Marketplace-ready content. Developing Bedrock add-ons using Script API and TypeScript.
 
 **Unity Developer** — Vision Brain S.L *(2024)*
 Upgraded Android project to API 30+, resolved AWS backend instability, updated full toolchain (JRE, JDK, .NET, DLLs).
@@ -59,7 +56,7 @@ Supported multiple Unity projects from development through launch.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 
-`Unity 6` `C#` `Addressables` `Android` `Firebase` `AWS` `SQLite` `MongoDB` `Unreal Engine` `Godot` `C++` `Java` `JavaScript` `Git` `Agile/Scrum`
+`Unity 6` `C#` `TypeScript` `JavaScript` `Android` `Firebase` `AWS` `SQLite` `MongoDB` `Unreal Engine` `C++` `Java` `Git` `Agile/Scrum`
 
 ---
 
