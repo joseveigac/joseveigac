@@ -41,20 +41,22 @@ I build games and software tools with a focus on clean architecture and real shi
 
 ---
 
-## Experience
-
+Experience
 <table>
   <tr>
     <td align="center" width="90" bgcolor="white">
+      <a href="https://pathway.studio"><img src="https://joseveiga.dev/img/pathway_logo.webp" width="64" alt="Pathway Studios" /></a>
+    </td>
+    <td>
       <strong>Minecraft Marketplace Developer</strong><br>
-      <a href="https://pathway.studio"><img src="https://joseveiga.dev/img/pathway_logo.webp" width="64" alt="Pathway Studios" />Pathway Studios</a> · <em>Jan 2026 – Present · Remote</em><br>
+      <a href="https://pathway.studio">Pathway Studios</a> · <em>Jan 2026 – Present · Remote</em><br>
       Developing Marketplace-ready Bedrock add-ons under NDA for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90" bgcolor="white">
-      <img src="https://aurrora.net/wp-content/uploads/2021/03/Aurrora-logo-Black-not-stacked.svg" width="64" alt="Aurrora Studio" />
+      <a href="https://aurrora.net"><img src="https://aurrora.net/wp-content/uploads/2021/03/Aurrora-logo-Black-not-stacked.svg" width="64" alt="Aurrora Studio" /></a>
     </td>
     <td>
       <strong>Addon Developer</strong><br>
@@ -65,7 +67,7 @@ I build games and software tools with a focus on clean architecture and real shi
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90" bgcolor="white">
-      <img src="https://joseveiga.dev/img/brainvt_logo.webp" width="64" alt="BrainVT" />
+      <a href="#"><img src="https://joseveiga.dev/img/brainvt_logo.webp" width="64" alt="BrainVT" /></a>
     </td>
     <td>
       <strong>Unity Developer – Android API & Backend</strong><br>
@@ -76,27 +78,26 @@ I build games and software tools with a focus on clean architecture and real shi
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90" bgcolor="white">
-      <img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" />
+      <a href="https://jellyworldgames.com"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
     </td>
     <td>
       <strong>Unity Developer (Remote)</strong><br>
-      <a href="https://jellyworld.games">Jellyworld Games</a> · <em>May 2021 – Jun 2022</em><br>
+      <a href="https://jellyworldgames.com">Jellyworld Games</a> · <em>May 2021 – Jun 2022</em><br>
       Shipped Trainpunk Run and My Daily Pets on Steam. Refactored architecture with OOP and SOLID principles across Agile sprints.
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90" bgcolor="white">
-      <img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" />
+      <a href="https://jellyworldgames.com"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
     </td>
     <td>
       <strong>Unity Developer (Internship)</strong><br>
-      <a href="https://jellyworld.games">Jellyworld Games</a> · <em>Jan 2021 – Apr 2021</em><br>
+      <a href="https://jellyworldgames.com">Jellyworld Games</a> · <em>Jan 2021 – Apr 2021</em><br>
       Supported multiple Unity projects with clean, structured code and launch prep.
     </td>
   </tr>
 </table>
-
 ---
 
 <div align="center">
