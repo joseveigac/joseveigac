@@ -46,10 +46,11 @@ I build games and software tools with a focus on clean architecture and real shi
   <tr>
     <td align="center" width="90">
       <a href="https://aurrora.net">
-        <img 
-          src="https://aurrora.net/wp-content/uploads/2021/03/Aurrora-logo-Black-not-stacked.svg"
-          width="40"
-          style="background:#ffffff;border-radius:50%;padding:12px;">
+        <span style="display:inline-block;background:#ffffff;border-radius:50%;padding:10px;">
+          <img 
+            src="https://aurrora.net/wp-content/uploads/2021/03/Aurrora-logo-Black-not-stacked.svg"
+            width="40">
+        </span>
       </a>
     </td>
     <td>
