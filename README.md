@@ -31,18 +31,18 @@ I build games and software tools with a focus on clean architecture and real shi
 
 <table>
   <tr>
-    <td align="center" width="90">
+    <td align="center" width="90" bgcolor="white">
       <img src="https://joseveiga.dev/img/pathway_logo.webp" width="64" alt="Pathway Studios" />
     </td>
     <td>
       <strong>Minecraft Marketplace Developer</strong><br>
-      <a href="https://pathwaystudios.net">Pathway Studios</a> · <em>Jan 2026 – Present · Remote</em><br>
+      <a href="https://pathway.studio">Pathway Studios</a> · <em>Jan 2026 – Present · Remote</em><br>
       Developing Marketplace-ready Bedrock add-ons under NDA for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td align="center" width="90">
+    <td align="center" width="90" bgcolor="white">
       <img src="https://aurrora.net/wp-content/uploads/2021/03/Aurrora-logo-Black-not-stacked.svg" width="64" alt="Aurrora Studio" />
     </td>
     <td>
@@ -53,7 +53,7 @@ I build games and software tools with a focus on clean architecture and real shi
   </tr>
   <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td align="center" width="90">
+    <td align="center" width="90" bgcolor="white">
       <img src="https://joseveiga.dev/img/brainvt_logo.webp" width="64" alt="BrainVT" />
     </td>
     <td>
@@ -64,7 +64,7 @@ I build games and software tools with a focus on clean architecture and real shi
   </tr>
   <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td align="center" width="90">
+    <td align="center" width="90" bgcolor="white">
       <img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" />
     </td>
     <td>
@@ -75,7 +75,7 @@ I build games and software tools with a focus on clean architecture and real shi
   </tr>
   <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td align="center" width="90">
+    <td align="center" width="90" bgcolor="white">
       <img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" />
     </td>
     <td>
