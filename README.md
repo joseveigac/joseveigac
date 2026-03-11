@@ -43,7 +43,7 @@ I build games and software tools with a focus on clean architecture and real shi
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90">
-      <strong>🧩</strong><br><sub>Aurrora Studio</sub>
+      <img src="[https://joseveiga.dev/img/pathway_logo.webp](https://aurrora.net/wp-content/uploads/2021/03/Aurrora-logo-Black-not-stacked.svg)" width="64" alt="Aurrora Studio" />
     </td>
     <td>
       <strong>Addon Developer</strong><br>
