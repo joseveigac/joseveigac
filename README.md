@@ -74,7 +74,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
     </td>
     <td>
       <strong>Minecraft Marketplace Developer</strong><br>
-      <a href="https://pathway.studio">Pathway Studios</a> · <em>Jan 2026 – Present · Remote</em><br>
+      Pathway Studios · <em>Jan 2026 – Present · Remote</em><br>
       Developing Marketplace-ready Bedrock add-ons for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
     </td>
   </tr>
@@ -94,7 +94,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
     </td>
     <td>
       <strong>Unity Developer (Remote)</strong><br>
-      <a href="https://jellyworld.games">Jellyworld Games</a> · <em>May 2021 – Jun 2022</em><br>
+      Jellyworld Games · <em>May 2021 – Jun 2022</em><br>
       Shipped Trainpunk Run and My Daily Pets on Steam. Refactored architecture with OOP and SOLID principles across Agile sprints.
     </td>
   </tr>
@@ -104,7 +104,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
     </td>
     <td>
       <strong>Unity Developer (Internship)</strong><br>
-      <a href="https://jellyworld.games">Jellyworld Games</a> · <em>Jan 2021 – Apr 2021</em><br>
+      Jellyworld Games · <em>Jan 2021 – Apr 2021</em><br>
       Supported multiple Unity projects with clean, structured code and launch prep.
     </td>
   </tr>
