@@ -25,7 +25,7 @@ I build games and software tools with a focus on clean architecture and real shi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 
-`Unity 6` `C#` `Addressables` `Android` `Firebase` `AWS` `SQLite` `MongoDB` `Unreal Engine` `Godot` `C++` `Java` `JavaScript` `Git` `Agile/Scrum`
+`Unity` `C#` `TypeScript` `JavaScript` `Unreal Engine` `C++` `Java` `Git` `Agile/Scrum`
 
 ---
 
