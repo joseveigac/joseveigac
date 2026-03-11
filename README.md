@@ -48,7 +48,7 @@ I build games and software tools with a focus on clean architecture and real shi
       <a href="https://aurrora.net">
         <span style="display:inline-block;background:#ffffff;border-radius:50%;padding:10px;">
           <img 
-            src="https://aurrora.net/wp-content/uploads/2021/03/Aurrora-logo-Black-not-stacked.svg"
+            src="Aurrora-logo-Black-not-stacked.svg"
             width="40">
         </span>
       </a>
