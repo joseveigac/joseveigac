@@ -53,7 +53,6 @@ I build games and software tools with a focus on clean architecture and real shi
       Developing Minecraft Bedrock add-ons as part of the studio team.
     </td>
   </tr>
-  <tr><td colspan="2"><br></td></tr>
     <tr>
     <td align="center" width="90" bgcolor="white">
       <a href="https://pathway.studio"><img src="https://joseveiga.dev/img/pathway_logo.webp" width="64" alt="Pathway Studios" /></a>
@@ -64,7 +63,6 @@ I build games and software tools with a focus on clean architecture and real shi
       Developing Marketplace-ready Bedrock add-ons for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
     </td>
   </tr>
-  <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90" bgcolor="white">
       <a href="#"><img src="https://joseveiga.dev/img/brainvt_logo.webp" width="64" alt="BrainVT" /></a>
@@ -75,7 +73,6 @@ I build games and software tools with a focus on clean architecture and real shi
       Upgraded Android project to API 30+, resolved AWS backend instability, updated full toolchain (JRE, JDK, .NET, DLLs).
     </td>
   </tr>
-  <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90" bgcolor="white">
       <a href="https://jellyworld.games"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
@@ -86,7 +83,6 @@ I build games and software tools with a focus on clean architecture and real shi
       Shipped Trainpunk Run and My Daily Pets on Steam. Refactored architecture with OOP and SOLID principles across Agile sprints.
     </td>
   </tr>
-  <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90" bgcolor="white">
       <a href="https://jellyworld.games"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
