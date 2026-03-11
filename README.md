@@ -46,7 +46,7 @@ I build games and software tools with a focus on clean architecture and real shi
   <tr>
     <td align="center" width="90">
       <a href="https://aurrora.net">
-        <img src="Aurrora-logo-Black-not-stacked.svg" width="64" alt="Aurrora Studio" />
+        <img src="Aurrora_Square.svg" width="64" alt="Aurrora Studio" />
       </a>
     </td>
     <td>
