@@ -41,7 +41,7 @@ I build games and software tools with a focus on clean architecture and real shi
 
 ---
 
-Experience
+### Experience
 <table>
   <tr>
     <td align="center" width="90" bgcolor="white">
@@ -61,7 +61,7 @@ Experience
     <td>
       <strong>Minecraft Marketplace Developer</strong><br>
       <a href="https://pathway.studio">Pathway Studios</a> · <em>Jan 2026 – Present · Remote</em><br>
-      Developing Marketplace-ready Bedrock add-ons under NDA for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
+      Developing Marketplace-ready Bedrock add-ons for an official Minecraft Marketplace Partner. Using Script API and TypeScript.
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
@@ -78,22 +78,22 @@ Experience
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90" bgcolor="white">
-      <a href="https://jellyworldgames.com"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
+      <a href="https://jellyworld.games"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
     </td>
     <td>
       <strong>Unity Developer (Remote)</strong><br>
-      <a href="https://jellyworldgames.com">Jellyworld Games</a> · <em>May 2021 – Jun 2022</em><br>
+      <a href="https://jellyworld.games">Jellyworld Games</a> · <em>May 2021 – Jun 2022</em><br>
       Shipped Trainpunk Run and My Daily Pets on Steam. Refactored architecture with OOP and SOLID principles across Agile sprints.
     </td>
   </tr>
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="90" bgcolor="white">
-      <a href="https://jellyworldgames.com"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
+      <a href="https://jellyworld.games"><img src="https://joseveiga.dev/img/jellyworld_logo.webp" width="64" alt="Jellyworld Games" /></a>
     </td>
     <td>
       <strong>Unity Developer (Internship)</strong><br>
-      <a href="https://jellyworldgames.com">Jellyworld Games</a> · <em>Jan 2021 – Apr 2021</em><br>
+      <a href="https://jellyworld.games">Jellyworld Games</a> · <em>Jan 2021 – Apr 2021</em><br>
       Supported multiple Unity projects with clean, structured code and launch prep.
     </td>
   </tr>
