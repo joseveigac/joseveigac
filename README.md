@@ -109,6 +109,7 @@ Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior a
     </td>
   </tr>
 </table>
+
 ---
 
 <div align="center">
