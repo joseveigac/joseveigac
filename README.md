@@ -23,7 +23,7 @@ Personal site with development notes, project writeups, and guides.
 ---
 
 ### [Trainpunk Run](https://store.steampowered.com/app/1501560/Trainpunk_Run/)
-![PC Game](https://img.shields.io/badge/PC_Game-grey?style=flat-square) ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%2FScrum-grey?style=flat-square)
+![PC Game](https://img.shields.io/badge/PC_Game-grey?style=flat-square) ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white) ![OOP](https://img.shields.io/badge/OOP%2FSOLID-grey?style=flat-square)
 
 Side-scrolling action game. Contributed to architecture, refactoring, and release as part of a remote Agile team.
 
@@ -36,17 +36,17 @@ Casual pet simulation game. Refactored codebase applying OOP and SOLID principle
 
 ---
 
-### [Creator Socials](https://creatorsocials.es/)
-![Web App](https://img.shields.io/badge/Web_App-grey?style=flat-square) ![REST API](https://img.shields.io/badge/REST_API-grey?style=flat-square) ![OAuth](https://img.shields.io/badge/OAuth-grey?style=flat-square) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-
-Multi-platform publishing tool — upload once, schedule and post to YouTube, TikTok & Instagram with cross-platform analytics.
-
----
-
 ### [Idle Ore Generators](https://www.curseforge.com/minecraft-bedrock/addons/idle-ore-generators)
 ![Bedrock Add-on](https://img.shields.io/badge/Bedrock_Add--on-grey?style=flat-square) ![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=flat-square&logo=curseforge&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![Minecraft Script API](https://img.shields.io/badge/%40minecraft%2Fserver_2.4.0-62B47A?style=flat-square)
 
 Published Minecraft Bedrock add-on. Adds idle ore generator items via Behavior and Resource packs using Script API.
+
+---
+
+### [Creator Socials](https://creatorsocials.es/)
+![Web App](https://img.shields.io/badge/Web_App-grey?style=flat-square) ![REST API](https://img.shields.io/badge/REST_API-grey?style=flat-square) ![OAuth](https://img.shields.io/badge/OAuth-grey?style=flat-square) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+
+Multi-platform publishing tool — upload once, schedule and post to YouTube, TikTok & Instagram with cross-platform analytics.
 
 ---
 
